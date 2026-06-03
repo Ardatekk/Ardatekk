@@ -13,14 +13,14 @@ While my core passion and absolute strength lie in **Business Intelligence, Data
 ---
 
 ### ⚡ Core Analytics & BI Focus (My Superpowers)
-*   **Executive Dashboarding:** Creating production-ready, interactive **Power BI** solutions driven by advanced **DAX** and deep **MS Excel** modeling.
-*   **Data Storytelling:** Translating raw corporate data into clear, high-impact business insights for stakeholders.
-*   **Database Management:** Writing optimized queries and structuring relational data models via **SQL (PostgreSQL, MySQL)**.
+* **Executive Dashboarding:** Creating production-ready, interactive **Power BI** solutions driven by advanced **DAX** and deep **MS Excel** modeling.
+* **Data Storytelling:** Translating raw corporate data into clear, high-impact business insights for stakeholders.
+* **Database Management:** Writing optimized queries and structuring relational data models via **SQL (PostgreSQL, MySQL)**.
 
 ### 🧠 Extended AI & Engineering Toolkit (My Technical Edge)
-*   **Machine Learning:** Training predictive models and running classification algorithms using **Python (Pandas, NumPy, Scikit-Learn)**.
-*   **Data Engineering:** Designing automated ingestion pipelines, web scrapers, and orchestration workflows.
-*   **Cloud & GenAI:** Deploying solutions within modern cloud environments (**Azure, AWS**) and leveraging **Generative AI & Prompt Engineering** for automation.
+* **Machine Learning:** Training predictive models and running classification algorithms using **Python (Pandas, NumPy, Scikit-Learn)**.
+* **Data Engineering:** Designing automated ingestion pipelines, web scrapers, and orchestration workflows.
+* **Cloud & GenAI:** Deploying solutions within modern cloud environments (**Azure, AWS**) and leveraging **Generative AI & Prompt Engineering** for automation.
 
 ---
 
@@ -37,26 +37,30 @@ While my core passion and absolute strength lie in **Business Intelligence, Data
 
 ### 👥 Featured Projects & Collaborative Tracks
 
+#### ⏳ **[In Development] Steel Market Analysis (Industrial Big Data & Analytics)**
+* **The Blueprint:** A high-level data analysis project focused on industrial steel market dynamics, utilizing global market indicators inspired by heavy-industry leaders like **ArcelorMittal**.
+* **Impact:** Building complex data aggregation models in Python to track raw material trends, pricing volatility, and supply chain metrics, designed to fuel comprehensive executive BI dashboards.
+
 #### 🍷 **Wine Market Analysis (Data Storytelling & BI)**
-*   **The Blueprint:** Led the data exploration and market segmentation phase to uncover shifting consumer trends.
-*   **Impact:** Modeled unstructured datasets using Python, designed complex metrics, and built an interactive dashboard focused on executive KPI tracking.
+* **The Blueprint:** Led the data exploration and market segmentation phase to uncover shifting consumer trends.
+* **Impact:** Modeled unstructured datasets using Python, designed complex metrics, and built an interactive dashboard focused on executive KPI tracking.
 
 #### 🪑 **OpenSpace Classifier (Logic & Optimization)**
-*   **The Blueprint:** A highly collaborative Python application engineered using Object-Oriented Programming (OOP) principles.
-*   **Impact:** Designed an automated system that dynamically reads organization layout inputs from Excel files and intelligently optimizes seating arrangements and workplace layouts.
+* **The Blueprint:** A highly collaborative Python application engineered using Object-Oriented Programming (OOP) principles.
+* **Impact:** Designed an automated system that dynamically reads organization layout inputs from Excel files and intelligently optimizes seating arrangements and workplace layouts.
 
 #### 🌐 **Wikipedia Scraper (ETL & Data Ingestion)**
-*   **The Blueprint:** Built a robust, reusable web-scraping pipeline designed to bypass structured layout limitations.
-*   **Impact:** Engineered a custom Python script that automatically extracts, cleans, and restructures raw web data into clean tables ready for analytics.
+* **The Blueprint:** Built a robust, reusable web-scraping pipeline designed to bypass structured layout limitations.
+* **Impact:** Engineered a custom Python script that automatically extracts, cleans, and restructures raw web data into clean tables ready for analytics.
 
 ---
 
 ### 🏫 Intensive Training & Education
 
-*   🚀 **BeCode Brussels** – AI & Data Science Immersion Program (2025 - 2026)
-    *   *Deep dive into advanced Python, Machine Learning, NoSQL, Cloud Systems, and GenAI, while heavily specializing in the Data Analyst & BI Developer track.*
-*   💻 **École 19 (42 Network)** – Intensive Peer-to-Peer Coding Marathon / Piscine (2024)
-*   🌐 **Bruxelles Formation** – Web Development Pre-formation (2024)
+* 🚀 **BeCode Brussels** – AI & Data Science Immersion Program (2025 - 2026)
+    * *Deep dive into advanced Python, Machine Learning, NoSQL, Cloud Systems, and GenAI, while heavily specializing in the Data Analyst & BI Developer track.*
+* 💻 **École 19 (42 Network)** – Intensive Peer-to-Peer Coding Marathon / Piscine (2024)
+* 🌐 **Bruxelles Formation** – Web Development Pre-formation (2024)
 
 ---
 
